@@ -1,6 +1,6 @@
 {
     "name": "tecnocen/yii2-arfixture",
-    "description": "Yii2 widget for Jquery TagsInput plugin",
+    "description": "Yii2 library to run fixtures the ActiveRecord Dao",
     "keywords": [
         "yii",
         "yii2",
