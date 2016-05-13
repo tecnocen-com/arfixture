@@ -3,7 +3,7 @@ tecnocen Yii2 Active Record Fixture
 
 [![Latest Stable Version](https://poser.pugx.org/tecnocen-com/yii2-arfixture/v/stable)](https://packagist.org/packages/tecnocen-com/yii2-arfixture) [![Total Downloads](https://poser.pugx.org/tecnocen-com/yii2-arfixture/downloads)](https://packagist.org/packages/tecnocen-com/yii2-arfixture) [![Latest Unstable Version](https://poser.pugx.org/tecnocen-com/yii2-arfixture/v/unstable)](https://packagist.org/packages/tecnocen-com/yii2-arfixture) [![License](https://poser.pugx.org/tecnocen-com/yii2-arfixture/license)](https://packagist.org/packages/tecnocen-com/yii2-arfixture)
 
-Library to load data fixutres using using the methods defined by `yii\db\ActiveRecord` and show each validation error to the user.
+Library to load data fixutres using using the methods defined by `yii\db\ActiveRecord` and show progress log.
 
 ## Installation
 
