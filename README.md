@@ -103,9 +103,9 @@ Each row can contain the following special options:
 
 - attributeErrors: array list of expected validation errors in the format
   ```php
-  [
-   'attribute1', // will check that it contains any error.
-   'attribute2' => 'Error Message' // This has to be the error found.
+  'attributeErrors' => [
+      'attribute1', // will check that it contains any error.
+      'attribute2' => 'Error Message' // This has to be the error found.
   ]
   ```
   > Warning: If this option is defined the record won't be saved even if
@@ -113,7 +113,7 @@ Each row can contain the following special options:
 
 - scenario: string to be used as scenario for the model to handle
   the methods `Model::load()` and `Model::validate()`, if not defined
-  the [[$scenarioDefault]] will be used
+  the `$scenarioDefault` will be used
 
 ## Documentation
 
