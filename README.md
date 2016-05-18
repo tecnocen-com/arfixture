@@ -25,7 +25,7 @@ to the `require` section of your `composer.json` file.
 
 ## Differences
 
-`yii\test\Fixture` and `yii\test\ActiveF`ixture load data to the tables using
+`yii\test\Fixture` and `yii\test\ActiveFixture` load data to the tables using
 the name of the table and the `yii\db\Schema::insert()` method which means all
 the methods defined in the model such as validations, events, behaviors and even
 table prefix are ignored.
