@@ -1,4 +1,4 @@
-tecnocen Yii2 Active Record Fixture
+Tecnocen-com Yii2 Active Record Fixture
 =========================
 
 [![Latest Stable Version](https://poser.pugx.org/tecnocen/yii2-arfixture/v/stable)](https://packagist.org/packages/tecnocen/yii2-arfixture) [![Total Downloads](https://poser.pugx.org/tecnocen/yii2-arfixture/downloads)](https://packagist.org/packages/tecnocen/yii2-arfixture) [![Latest Unstable Version](https://poser.pugx.org/tecnocen/yii2-arfixture/v/unstable)](https://packagist.org/packages/tecnocen/yii2-arfixture) [![License](https://poser.pugx.org/tecnocen/yii2-arfixture/license)](https://packagist.org/packages/tecnocen/yii2-arfixture)
